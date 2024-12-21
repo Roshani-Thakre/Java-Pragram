@@ -1,0 +1,5 @@
+Add two number in java programming language
+
+int a=10,b=15,sum;
+sum=a+b;
+System.out.println("Sum= "+sum);
