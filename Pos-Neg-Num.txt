@@ -1,0 +1,12 @@
+Check the given number is positive or negative.
+
+Scanner scan=new Scanner(Ayatem.in);
+int num;
+System.out.println("Enter number:");
+num=scan.nextInt();
+if(num>=0){
+    System.out.println("Number is positive");
+}
+else{
+    System.out.println("Number is Negative");
+}
