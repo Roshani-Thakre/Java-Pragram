@@ -1,0 +1,12 @@
+Write a code , Swapping two number using third variable in java programming language.
+
+int a=5,b=10,temp;
+System.out.println("Before Swapping:");
+System.out.println("a= "+a+ "\nb= "+b );
+temp=a;
+a=b;
+b=temp;
+System.out.println("After Swapping:");
+System.out.println("a= "+a+ "\nb= "+b);
+
+
